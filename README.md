@@ -1,4 +1,4 @@
-# 📱 Conference Registration App (MidTermStudentId)
+# 📱 Conference Registration App (MidTerm)
 
 This Android mobile app is developed in **Kotlin** using **Jetpack Compose** as part of the midterm project.  
 It allows users to register for a conference and view a summary of their registration details.
