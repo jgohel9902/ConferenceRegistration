@@ -131,30 +131,7 @@ app/
 
 ---
 
-## 📸 Screenshots (to be included in documentation)
-- Light Mode – Registration Screen  
-- Dark Mode – Registration Screen  
-- Light Mode – Summary Screen  
-- Dark Mode – Summary Screen  
 
----
-
-## 🎥 Demo Video
-Attach or link your **screen recording** showing:
-1. Registration process  
-2. Summary display  
-3. Code walkthrough
-
----
-
-## 🧑‍💻 Author
-**Name:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
-**Course:** Mobile Application Development (Midterm Project)  
-**IDE:** Android Studio  
-**Language:** Kotlin  
-
----
 
 ## ⚙️ How to Run
 1. Clone or download the repository.
